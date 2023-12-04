@@ -1,0 +1,100 @@
+@media (max-width: 1300px) {
+  .fpImg {
+    height: 289px;
+    width: 246px;
+    right: 115px;
+  }
+
+  .fpImg2 {
+    height: 294px;
+    width: 252px;
+    right: 85px;
+  }
+
+  .pContainer{
+    right: -30px;
+  }
+}
+@media (max-width: 1250px) {
+  .intro {
+    top: 120px;
+    left: 113px;
+    font-size: 47px;
+  }
+  .about {
+    font-size: 12px;
+    width: 407px;
+  }
+  .buttons {
+    top: 436px;
+    left: 123px;
+}
+.btn{
+    padding: 10px 44px;
+}
+}
+@media (max-width: 960px) {
+
+    .fpImg{
+        height: 206px;
+        width: 177px;
+    }
+
+    .fpImg2{
+        height: 206px;
+        width: 177px;
+    }
+    .headingtxt{
+        left: 45px;
+    }
+    .intro{
+        left: 45px;
+    }
+    .about{
+        left: 45px;
+    }
+
+    .btn{
+        font-size: 10px;
+        padding: 10px 26px;
+    }
+
+    .buttons {
+        top: 436px;
+        left: 56px;
+    }
+}
+@media (max-width: 890px) {
+
+    .intro{
+        font-size: 25px;
+    }
+
+    .headingtxt{
+        font-size: 12px;
+        top: 100px;
+    }
+    .about{
+        top:138px ;
+        width: 260px;
+    }
+
+    .buttons{
+        top: 365px;
+    }
+
+    .fpImg{
+        right: 60px;
+        top: 160px;
+    }
+
+    .fpImg2{
+        right: 35px;
+    }
+}
+
+@media( max-width: 570px){
+
+    .fpImg{
+    }
+}
